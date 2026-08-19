@@ -1,0 +1,1471 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Fri Jan  1 12:02:08 2021
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_v2_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_terrain_classifier_v2_0_0 (xilinx.com:hls:terrain_classifier_v2:1.0) from (Rev. 2104021203) to (Rev. 2101011201)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Fri Apr  2 12:03:58 2021
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_v2_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_terrain_classifier_v2_0_0 (xilinx.com:hls:terrain_classifier_v2:1.0) from (Rev. 2104021202) to (Rev. 2104021203)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Fri Apr  2 12:02:40 2021
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_v2_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_terrain_classifier_v2_0_0 (xilinx.com:hls:terrain_classifier_v2:1.0 (Rev. 2104021202)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Fri Apr  2 12:03:18 2021
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_v2_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_terrain_classifier_v2_0_0 (xilinx.com:hls:terrain_classifier_v2:1.0 (Rev. 2104021202)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Fri Apr  2 12:02:53 2021
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_v2_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_terrain_classifier_v2_0_0 (xilinx.com:hls:terrain_classifier_v2:1.0 (Rev. 2104021202)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Tue Apr 14 16:55:26 2026
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_v2_0_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_terrain_classifier_v2_0_0 (xilinx.com:hls:terrain_classifier_v2:1.0) from (Rev. 2104021201) to (Rev. 2104021202)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading 'design_1_terrain_classifier_v2_0_0'.
+
+
+-Upgrade has removed interface 'm_axi_gmem'
+
+
+3. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_terrain_classifier_v2_0_0'. These changes may impact your design.
+
+
+-Upgraded port 's_axi_control_ARADDR' width 15 differs from original width 6
+
+-Upgraded port 's_axi_control_AWADDR' width 15 differs from original width 6
+
+-Upgrade has removed port 'm_axi_gmem_ARADDR'
+
+-Upgrade has removed port 'm_axi_gmem_ARBURST'
+
+-Upgrade has removed port 'm_axi_gmem_ARCACHE'
+
+-Upgrade has removed port 'm_axi_gmem_ARLEN'
+
+-Upgrade has removed port 'm_axi_gmem_ARLOCK'
+
+-Upgrade has removed port 'm_axi_gmem_ARPROT'
+
+-Upgrade has removed port 'm_axi_gmem_ARQOS'
+
+-Upgrade has removed port 'm_axi_gmem_ARREADY'
+
+-Upgrade has removed port 'm_axi_gmem_ARREGION'
+
+-Upgrade has removed port 'm_axi_gmem_ARSIZE'
+
+-Upgrade has removed port 'm_axi_gmem_ARVALID'
+
+-Upgrade has removed port 'm_axi_gmem_AWADDR'
+
+-Upgrade has removed port 'm_axi_gmem_AWBURST'
+
+-Upgrade has removed port 'm_axi_gmem_AWCACHE'
+
+-Upgrade has removed port 'm_axi_gmem_AWLEN'
+
+-Upgrade has removed port 'm_axi_gmem_AWLOCK'
+
+-Upgrade has removed port 'm_axi_gmem_AWPROT'
+
+-Upgrade has removed port 'm_axi_gmem_AWQOS'
+
+-Upgrade has removed port 'm_axi_gmem_AWREADY'
+
+-Upgrade has removed port 'm_axi_gmem_AWREGION'
+
+-Upgrade has removed port 'm_axi_gmem_AWSIZE'
+
+-Upgrade has removed port 'm_axi_gmem_AWVALID'
+
+-Upgrade has removed port 'm_axi_gmem_BREADY'
+
+-Upgrade has removed port 'm_axi_gmem_BRESP'
+
+-Upgrade has removed port 'm_axi_gmem_BVALID'
+
+-Upgrade has removed port 'm_axi_gmem_RDATA'
+
+-Upgrade has removed port 'm_axi_gmem_RLAST'
+
+-Upgrade has removed port 'm_axi_gmem_RREADY'
+
+-Upgrade has removed port 'm_axi_gmem_RRESP'
+
+-Upgrade has removed port 'm_axi_gmem_RVALID'
+
+-Upgrade has removed port 'm_axi_gmem_WDATA'
+
+-Upgrade has removed port 'm_axi_gmem_WLAST'
+
+-Upgrade has removed port 'm_axi_gmem_WREADY'
+
+-Upgrade has removed port 'm_axi_gmem_WSTRB'
+
+-Upgrade has removed port 'm_axi_gmem_WVALID'
+
+
+4. Addressing Information
+-------------------------
+
+Detected addressing differences while upgrading 'design_1_terrain_classifier_v2_0_0'. These changes may impact your design.
+
+
+-Upgrade has removed address space 'Data_m_axi_gmem'
+
+
+5. Customization warnings
+-------------------------
+
+Parameter 'C_M_AXI_GMEM_ENABLE_ID_PORTS' is no longer present on the upgraded IP 'design_1_terrain_classifier_v2_0_0', and cannot be set to 'false'
+
+Parameter 'C_M_AXI_GMEM_ID_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_v2_0_0', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM_DATA_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_v2_0_0', and cannot be set to '32'
+
+Parameter 'C_M_AXI_GMEM_ENABLE_USER_PORTS' is no longer present on the upgraded IP 'design_1_terrain_classifier_v2_0_0', and cannot be set to 'false'
+
+Parameter 'C_M_AXI_GMEM_AWUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_v2_0_0', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM_WUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_v2_0_0', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM_BUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_v2_0_0', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM_ARUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_v2_0_0', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM_RUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_v2_0_0', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM_USER_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_v2_0_0', and cannot be set to '0x00000000'
+
+Parameter 'C_M_AXI_GMEM_PROT_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_v2_0_0', and cannot be set to '"000"'
+
+Parameter 'C_M_AXI_GMEM_CACHE_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_v2_0_0', and cannot be set to '"0011"'
+
+
+6. Debug Commands
+-----------------
+
+  The following debug information can be passed to Vivado as Tcl commands,
+in order to validate or debug the output of the upgrade flow.
+  You may consult any warnings from within this upgrade, and alter or remove
+the configuration parameter(s) which caused the warning; then execute the Tcl
+commands, and use the IP Customization GUI to verify the IP configuration.
+
+create_ip -vlnv xilinx.com:hls:terrain_classifier_v2:1.0 -user_name design_1_terrain_classifier_v2_0_0
+set_property -dict "\
+  CONFIG.Component_Name {design_1_terrain_classifier_v2_0_0} \
+  CONFIG.II {x} \
+  CONFIG.ap_clk.ASSOCIATED_BUSIF {s_axi_control:m_axi_gmem} \
+  CONFIG.ap_clk.ASSOCIATED_RESET {ap_rst_n} \
+  CONFIG.ap_clk.CLK_DOMAIN {design_1_processing_system7_0_0_FCLK_CLK0} \
+  CONFIG.ap_clk.FREQ_HZ {100000000} \
+  CONFIG.ap_clk.FREQ_TOLERANCE_HZ {0} \
+  CONFIG.ap_clk.INSERT_VIP {0} \
+  CONFIG.ap_clk.PHASE {0.000} \
+  CONFIG.ap_rst_n.INSERT_VIP {0} \
+  CONFIG.ap_rst_n.POLARITY {ACTIVE_LOW} \
+  CONFIG.clk_period {10} \
+  CONFIG.combinational {0} \
+  CONFIG.interrupt.PortWidth {1} \
+  CONFIG.interrupt.SENSITIVITY {LEVEL_HIGH} \
+  CONFIG.latency {1567} \
+  CONFIG.machine {64} \
+  CONFIG.s_axi_control.ADDR_WIDTH {6} \
+  CONFIG.s_axi_control.ARUSER_WIDTH {0} \
+  CONFIG.s_axi_control.AWUSER_WIDTH {0} \
+  CONFIG.s_axi_control.BUSER_WIDTH {0} \
+  CONFIG.s_axi_control.CLK_DOMAIN {design_1_processing_system7_0_0_FCLK_CLK0} \
+  CONFIG.s_axi_control.DATA_WIDTH {32} \
+  CONFIG.s_axi_control.FREQ_HZ {100000000} \
+  CONFIG.s_axi_control.HAS_BRESP {1} \
+  CONFIG.s_axi_control.HAS_BURST {0} \
+  CONFIG.s_axi_control.HAS_CACHE {0} \
+  CONFIG.s_axi_control.HAS_LOCK {0} \
+  CONFIG.s_axi_control.HAS_PROT {0} \
+  CONFIG.s_axi_control.HAS_QOS {0} \
+  CONFIG.s_axi_control.HAS_REGION {0} \
+  CONFIG.s_axi_control.HAS_RRESP {1} \
+  CONFIG.s_axi_control.HAS_WSTRB {1} \
+  CONFIG.s_axi_control.ID_WIDTH {0} \
+  CONFIG.s_axi_control.INSERT_VIP {0} \
+  CONFIG.s_axi_control.MAX_BURST_LENGTH {1} \
+  CONFIG.s_axi_control.NUM_READ_OUTSTANDING {1} \
+  CONFIG.s_axi_control.NUM_READ_THREADS {4} \
+  CONFIG.s_axi_control.NUM_WRITE_OUTSTANDING {1} \
+  CONFIG.s_axi_control.NUM_WRITE_THREADS {4} \
+  CONFIG.s_axi_control.PHASE {0.000} \
+  CONFIG.s_axi_control.PROTOCOL {AXI4LITE} \
+  CONFIG.s_axi_control.READ_WRITE_MODE {READ_WRITE} \
+  CONFIG.s_axi_control.RUSER_BITS_PER_BYTE {0} \
+  CONFIG.s_axi_control.RUSER_WIDTH {0} \
+  CONFIG.s_axi_control.SUPPORTS_NARROW_BURST {0} \
+  CONFIG.s_axi_control.WUSER_BITS_PER_BYTE {0} \
+  CONFIG.s_axi_control.WUSER_WIDTH {0} " [get_ips design_1_terrain_classifier_v2_0_0]
+
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Mon Apr 13 17:56:58 2026
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_0_1'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the conversion of design_1_terrain_classifier_0_1 (xilinx.com:hls:terrain_classifier:1.0 (Rev. 2104021202)) to Vivado generation flows.
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading 'design_1_terrain_classifier_0_1'.
+
+
+-Upgrade has removed interface 'm_axi_gmem0'
+
+-Upgrade has removed interface 'm_axi_gmem1'
+
+
+3. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_terrain_classifier_0_1'. These changes may impact your design.
+
+
+-Upgraded port 's_axi_control_ARADDR' width 17 differs from original width 6
+
+-Upgraded port 's_axi_control_AWADDR' width 17 differs from original width 6
+
+-Upgrade has removed port 'm_axi_gmem0_ARADDR'
+
+-Upgrade has removed port 'm_axi_gmem0_ARBURST'
+
+-Upgrade has removed port 'm_axi_gmem0_ARCACHE'
+
+-Upgrade has removed port 'm_axi_gmem0_ARLEN'
+
+-Upgrade has removed port 'm_axi_gmem0_ARLOCK'
+
+-Upgrade has removed port 'm_axi_gmem0_ARPROT'
+
+-Upgrade has removed port 'm_axi_gmem0_ARQOS'
+
+-Upgrade has removed port 'm_axi_gmem0_ARREADY'
+
+-Upgrade has removed port 'm_axi_gmem0_ARREGION'
+
+-Upgrade has removed port 'm_axi_gmem0_ARSIZE'
+
+-Upgrade has removed port 'm_axi_gmem0_ARVALID'
+
+-Upgrade has removed port 'm_axi_gmem0_AWADDR'
+
+-Upgrade has removed port 'm_axi_gmem0_AWBURST'
+
+-Upgrade has removed port 'm_axi_gmem0_AWCACHE'
+
+-Upgrade has removed port 'm_axi_gmem0_AWLEN'
+
+-Upgrade has removed port 'm_axi_gmem0_AWLOCK'
+
+-Upgrade has removed port 'm_axi_gmem0_AWPROT'
+
+-Upgrade has removed port 'm_axi_gmem0_AWQOS'
+
+-Upgrade has removed port 'm_axi_gmem0_AWREADY'
+
+-Upgrade has removed port 'm_axi_gmem0_AWREGION'
+
+-Upgrade has removed port 'm_axi_gmem0_AWSIZE'
+
+-Upgrade has removed port 'm_axi_gmem0_AWVALID'
+
+-Upgrade has removed port 'm_axi_gmem0_BREADY'
+
+-Upgrade has removed port 'm_axi_gmem0_BRESP'
+
+-Upgrade has removed port 'm_axi_gmem0_BVALID'
+
+-Upgrade has removed port 'm_axi_gmem0_RDATA'
+
+-Upgrade has removed port 'm_axi_gmem0_RLAST'
+
+-Upgrade has removed port 'm_axi_gmem0_RREADY'
+
+-Upgrade has removed port 'm_axi_gmem0_RRESP'
+
+-Upgrade has removed port 'm_axi_gmem0_RVALID'
+
+-Upgrade has removed port 'm_axi_gmem0_WDATA'
+
+-Upgrade has removed port 'm_axi_gmem0_WLAST'
+
+-Upgrade has removed port 'm_axi_gmem0_WREADY'
+
+-Upgrade has removed port 'm_axi_gmem0_WSTRB'
+
+-Upgrade has removed port 'm_axi_gmem0_WVALID'
+
+-Upgrade has removed port 'm_axi_gmem1_ARADDR'
+
+-Upgrade has removed port 'm_axi_gmem1_ARBURST'
+
+-Upgrade has removed port 'm_axi_gmem1_ARCACHE'
+
+-Upgrade has removed port 'm_axi_gmem1_ARLEN'
+
+-Upgrade has removed port 'm_axi_gmem1_ARLOCK'
+
+-Upgrade has removed port 'm_axi_gmem1_ARPROT'
+
+-Upgrade has removed port 'm_axi_gmem1_ARQOS'
+
+-Upgrade has removed port 'm_axi_gmem1_ARREADY'
+
+-Upgrade has removed port 'm_axi_gmem1_ARREGION'
+
+-Upgrade has removed port 'm_axi_gmem1_ARSIZE'
+
+-Upgrade has removed port 'm_axi_gmem1_ARVALID'
+
+-Upgrade has removed port 'm_axi_gmem1_AWADDR'
+
+-Upgrade has removed port 'm_axi_gmem1_AWBURST'
+
+-Upgrade has removed port 'm_axi_gmem1_AWCACHE'
+
+-Upgrade has removed port 'm_axi_gmem1_AWLEN'
+
+-Upgrade has removed port 'm_axi_gmem1_AWLOCK'
+
+-Upgrade has removed port 'm_axi_gmem1_AWPROT'
+
+-Upgrade has removed port 'm_axi_gmem1_AWQOS'
+
+-Upgrade has removed port 'm_axi_gmem1_AWREADY'
+
+-Upgrade has removed port 'm_axi_gmem1_AWREGION'
+
+-Upgrade has removed port 'm_axi_gmem1_AWSIZE'
+
+-Upgrade has removed port 'm_axi_gmem1_AWVALID'
+
+-Upgrade has removed port 'm_axi_gmem1_BREADY'
+
+-Upgrade has removed port 'm_axi_gmem1_BRESP'
+
+-Upgrade has removed port 'm_axi_gmem1_BVALID'
+
+-Upgrade has removed port 'm_axi_gmem1_RDATA'
+
+-Upgrade has removed port 'm_axi_gmem1_RLAST'
+
+-Upgrade has removed port 'm_axi_gmem1_RREADY'
+
+-Upgrade has removed port 'm_axi_gmem1_RRESP'
+
+-Upgrade has removed port 'm_axi_gmem1_RVALID'
+
+-Upgrade has removed port 'm_axi_gmem1_WDATA'
+
+-Upgrade has removed port 'm_axi_gmem1_WLAST'
+
+-Upgrade has removed port 'm_axi_gmem1_WREADY'
+
+-Upgrade has removed port 'm_axi_gmem1_WSTRB'
+
+-Upgrade has removed port 'm_axi_gmem1_WVALID'
+
+
+4. Addressing Information
+-------------------------
+
+Detected addressing differences while upgrading 'design_1_terrain_classifier_0_1'. These changes may impact your design.
+
+
+-Upgrade has removed address space 'Data_m_axi_gmem0'
+
+-Upgrade has removed address space 'Data_m_axi_gmem1'
+
+
+5. Customization warnings
+-------------------------
+
+Parameter 'C_M_AXI_GMEM0_ENABLE_ID_PORTS' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to 'false'
+
+Parameter 'C_M_AXI_GMEM0_ID_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM0_DATA_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '32'
+
+Parameter 'C_M_AXI_GMEM0_ENABLE_USER_PORTS' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to 'false'
+
+Parameter 'C_M_AXI_GMEM0_AWUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM0_WUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM0_BUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM0_ARUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM0_RUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM0_USER_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '0x00000000'
+
+Parameter 'C_M_AXI_GMEM0_PROT_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '"000"'
+
+Parameter 'C_M_AXI_GMEM0_CACHE_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '"0011"'
+
+Parameter 'C_M_AXI_GMEM1_ENABLE_ID_PORTS' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to 'false'
+
+Parameter 'C_M_AXI_GMEM1_ID_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM1_DATA_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '32'
+
+Parameter 'C_M_AXI_GMEM1_ENABLE_USER_PORTS' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to 'false'
+
+Parameter 'C_M_AXI_GMEM1_AWUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM1_WUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM1_BUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM1_ARUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM1_RUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_GMEM1_USER_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '0x00000000'
+
+Parameter 'C_M_AXI_GMEM1_PROT_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '"000"'
+
+Parameter 'C_M_AXI_GMEM1_CACHE_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '"0011"'
+
+
+6. Debug Commands
+-----------------
+
+  The following debug information can be passed to Vivado as Tcl commands,
+in order to validate or debug the output of the upgrade flow.
+  You may consult any warnings from within this upgrade, and alter or remove
+the configuration parameter(s) which caused the warning; then execute the Tcl
+commands, and use the IP Customization GUI to verify the IP configuration.
+
+create_ip -vlnv xilinx.com:hls:terrain_classifier:1.0 -user_name design_1_terrain_classifier_0_1
+set_property -dict "\
+  CONFIG.Component_Name {design_1_terrain_classifier_0_1} \
+  CONFIG.II {x} \
+  CONFIG.ap_clk.ASSOCIATED_BUSIF {s_axi_control:m_axi_gmem0:m_axi_gmem1} \
+  CONFIG.ap_clk.ASSOCIATED_RESET {ap_rst_n} \
+  CONFIG.ap_clk.CLK_DOMAIN {design_1_processing_system7_0_0_FCLK_CLK0} \
+  CONFIG.ap_clk.FREQ_HZ {50000000} \
+  CONFIG.ap_clk.FREQ_TOLERANCE_HZ {0} \
+  CONFIG.ap_clk.INSERT_VIP {0} \
+  CONFIG.ap_clk.PHASE {0.000} \
+  CONFIG.ap_rst_n.INSERT_VIP {0} \
+  CONFIG.ap_rst_n.POLARITY {ACTIVE_LOW} \
+  CONFIG.clk_period {10} \
+  CONFIG.combinational {0} \
+  CONFIG.interrupt.PortWidth {1} \
+  CONFIG.interrupt.SENSITIVITY {LEVEL_HIGH} \
+  CONFIG.latency {12629878} \
+  CONFIG.machine {64} \
+  CONFIG.s_axi_control.ADDR_WIDTH {6} \
+  CONFIG.s_axi_control.ARUSER_WIDTH {0} \
+  CONFIG.s_axi_control.AWUSER_WIDTH {0} \
+  CONFIG.s_axi_control.BUSER_WIDTH {0} \
+  CONFIG.s_axi_control.CLK_DOMAIN {design_1_processing_system7_0_0_FCLK_CLK0} \
+  CONFIG.s_axi_control.DATA_WIDTH {32} \
+  CONFIG.s_axi_control.FREQ_HZ {50000000} \
+  CONFIG.s_axi_control.HAS_BRESP {1} \
+  CONFIG.s_axi_control.HAS_BURST {0} \
+  CONFIG.s_axi_control.HAS_CACHE {0} \
+  CONFIG.s_axi_control.HAS_LOCK {0} \
+  CONFIG.s_axi_control.HAS_PROT {0} \
+  CONFIG.s_axi_control.HAS_QOS {0} \
+  CONFIG.s_axi_control.HAS_REGION {0} \
+  CONFIG.s_axi_control.HAS_RRESP {1} \
+  CONFIG.s_axi_control.HAS_WSTRB {1} \
+  CONFIG.s_axi_control.ID_WIDTH {0} \
+  CONFIG.s_axi_control.INSERT_VIP {0} \
+  CONFIG.s_axi_control.MAX_BURST_LENGTH {1} \
+  CONFIG.s_axi_control.NUM_READ_OUTSTANDING {1} \
+  CONFIG.s_axi_control.NUM_READ_THREADS {1} \
+  CONFIG.s_axi_control.NUM_WRITE_OUTSTANDING {1} \
+  CONFIG.s_axi_control.NUM_WRITE_THREADS {1} \
+  CONFIG.s_axi_control.PHASE {0.000} \
+  CONFIG.s_axi_control.PROTOCOL {AXI4LITE} \
+  CONFIG.s_axi_control.READ_WRITE_MODE {READ_WRITE} \
+  CONFIG.s_axi_control.RUSER_BITS_PER_BYTE {0} \
+  CONFIG.s_axi_control.RUSER_WIDTH {0} \
+  CONFIG.s_axi_control.SUPPORTS_NARROW_BURST {0} \
+  CONFIG.s_axi_control.WUSER_BITS_PER_BYTE {0} \
+  CONFIG.s_axi_control.WUSER_WIDTH {0} " [get_ips design_1_terrain_classifier_0_1]
+
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Mon Apr 13 17:14:16 2026
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_terrain_classifier_0_1 (xilinx.com:hls:terrain_classifier:1.0 (Rev. 2104021202)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Fri Apr  2 12:03:00 2021
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_terrain_classifier_0_1 (xilinx.com:hls:terrain_classifier:1.0 (Rev. 2104021202)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Mon Apr 13 16:26:09 2026
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_terrain_classifier_0_1 (xilinx.com:hls:terrain_classifier:1.0 (Rev. 2104021202)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Mon Apr 13 14:29:15 2026
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_terrain_classifier_0_1 (xilinx.com:hls:terrain_classifier:1.0 (Rev. 2104021202)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Sat Apr 11 13:30:42 2026
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_terrain_classifier_0_1 (xilinx.com:hls:terrain_classifier:1.0) from (Rev. 2104021205) to (Rev. 2104021202)
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Sat Apr 11 13:09:19 2026
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_0_1'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_terrain_classifier_0_1 (xilinx.com:hls:terrain_classifier:1.0) from (Rev. 2104021200) to (Rev. 2104021205)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading 'design_1_terrain_classifier_0_1'.
+
+
+-Upgrade has removed interface 'input_image_stream_V'
+
+-Upgrade has removed interface 'm_axi_WEIGHT_BUS'
+
+-Upgrade has removed interface 's_axi_CTRL_BUS'
+
+-Upgrade has added interface 'm_axi_gmem0' (xilinx.com:interface:aximm:1.0)
+
+-Upgrade has added interface 'm_axi_gmem1' (xilinx.com:interface:aximm:1.0)
+
+
+3. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_terrain_classifier_0_1'. These changes may impact your design.
+
+
+-Upgraded port 's_axi_control_ARADDR' width 6 differs from original width 5
+
+-Upgraded port 's_axi_control_AWADDR' width 6 differs from original width 5
+
+-Upgrade has removed port 'input_image_stream_V_TDATA'
+
+-Upgrade has removed port 'input_image_stream_V_TREADY'
+
+-Upgrade has removed port 'input_image_stream_V_TVALID'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_ARADDR'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_ARBURST'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_ARCACHE'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_ARLEN'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_ARLOCK'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_ARPROT'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_ARQOS'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_ARREADY'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_ARREGION'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_ARSIZE'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_ARVALID'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_AWADDR'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_AWBURST'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_AWCACHE'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_AWLEN'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_AWLOCK'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_AWPROT'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_AWQOS'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_AWREADY'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_AWREGION'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_AWSIZE'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_AWVALID'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_BREADY'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_BRESP'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_BVALID'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_RDATA'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_RLAST'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_RREADY'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_RRESP'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_RVALID'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_WDATA'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_WLAST'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_WREADY'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_WSTRB'
+
+-Upgrade has removed port 'm_axi_WEIGHT_BUS_WVALID'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_ARADDR'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_ARREADY'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_ARVALID'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_AWADDR'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_AWREADY'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_AWVALID'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_BREADY'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_BRESP'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_BVALID'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_RDATA'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_RREADY'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_RRESP'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_RVALID'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_WDATA'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_WREADY'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_WSTRB'
+
+-Upgrade has removed port 's_axi_CTRL_BUS_WVALID'
+
+-Upgrade has added port 'm_axi_gmem0_ARADDR'
+
+-Upgrade has added port 'm_axi_gmem0_ARBURST'
+
+-Upgrade has added port 'm_axi_gmem0_ARCACHE'
+
+-Upgrade has added port 'm_axi_gmem0_ARLEN'
+
+-Upgrade has added port 'm_axi_gmem0_ARLOCK'
+
+-Upgrade has added port 'm_axi_gmem0_ARPROT'
+
+-Upgrade has added port 'm_axi_gmem0_ARQOS'
+
+-Upgrade has added port 'm_axi_gmem0_ARREADY'
+
+-Upgrade has added port 'm_axi_gmem0_ARREGION'
+
+-Upgrade has added port 'm_axi_gmem0_ARSIZE'
+
+-Upgrade has added port 'm_axi_gmem0_ARVALID'
+
+-Upgrade has added port 'm_axi_gmem0_AWADDR'
+
+-Upgrade has added port 'm_axi_gmem0_AWBURST'
+
+-Upgrade has added port 'm_axi_gmem0_AWCACHE'
+
+-Upgrade has added port 'm_axi_gmem0_AWLEN'
+
+-Upgrade has added port 'm_axi_gmem0_AWLOCK'
+
+-Upgrade has added port 'm_axi_gmem0_AWPROT'
+
+-Upgrade has added port 'm_axi_gmem0_AWQOS'
+
+-Upgrade has added port 'm_axi_gmem0_AWREADY'
+
+-Upgrade has added port 'm_axi_gmem0_AWREGION'
+
+-Upgrade has added port 'm_axi_gmem0_AWSIZE'
+
+-Upgrade has added port 'm_axi_gmem0_AWVALID'
+
+-Upgrade has added port 'm_axi_gmem0_BREADY'
+
+-Upgrade has added port 'm_axi_gmem0_BRESP'
+
+-Upgrade has added port 'm_axi_gmem0_BVALID'
+
+-Upgrade has added port 'm_axi_gmem0_RDATA'
+
+-Upgrade has added port 'm_axi_gmem0_RLAST'
+
+-Upgrade has added port 'm_axi_gmem0_RREADY'
+
+-Upgrade has added port 'm_axi_gmem0_RRESP'
+
+-Upgrade has added port 'm_axi_gmem0_RVALID'
+
+-Upgrade has added port 'm_axi_gmem0_WDATA'
+
+-Upgrade has added port 'm_axi_gmem0_WLAST'
+
+-Upgrade has added port 'm_axi_gmem0_WREADY'
+
+-Upgrade has added port 'm_axi_gmem0_WSTRB'
+
+-Upgrade has added port 'm_axi_gmem0_WVALID'
+
+-Upgrade has added port 'm_axi_gmem1_ARADDR'
+
+-Upgrade has added port 'm_axi_gmem1_ARBURST'
+
+-Upgrade has added port 'm_axi_gmem1_ARCACHE'
+
+-Upgrade has added port 'm_axi_gmem1_ARLEN'
+
+-Upgrade has added port 'm_axi_gmem1_ARLOCK'
+
+-Upgrade has added port 'm_axi_gmem1_ARPROT'
+
+-Upgrade has added port 'm_axi_gmem1_ARQOS'
+
+-Upgrade has added port 'm_axi_gmem1_ARREADY'
+
+-Upgrade has added port 'm_axi_gmem1_ARREGION'
+
+-Upgrade has added port 'm_axi_gmem1_ARSIZE'
+
+-Upgrade has added port 'm_axi_gmem1_ARVALID'
+
+-Upgrade has added port 'm_axi_gmem1_AWADDR'
+
+-Upgrade has added port 'm_axi_gmem1_AWBURST'
+
+-Upgrade has added port 'm_axi_gmem1_AWCACHE'
+
+-Upgrade has added port 'm_axi_gmem1_AWLEN'
+
+-Upgrade has added port 'm_axi_gmem1_AWLOCK'
+
+-Upgrade has added port 'm_axi_gmem1_AWPROT'
+
+-Upgrade has added port 'm_axi_gmem1_AWQOS'
+
+-Upgrade has added port 'm_axi_gmem1_AWREADY'
+
+-Upgrade has added port 'm_axi_gmem1_AWREGION'
+
+-Upgrade has added port 'm_axi_gmem1_AWSIZE'
+
+-Upgrade has added port 'm_axi_gmem1_AWVALID'
+
+-Upgrade has added port 'm_axi_gmem1_BREADY'
+
+-Upgrade has added port 'm_axi_gmem1_BRESP'
+
+-Upgrade has added port 'm_axi_gmem1_BVALID'
+
+-Upgrade has added port 'm_axi_gmem1_RDATA'
+
+-Upgrade has added port 'm_axi_gmem1_RLAST'
+
+-Upgrade has added port 'm_axi_gmem1_RREADY'
+
+-Upgrade has added port 'm_axi_gmem1_RRESP'
+
+-Upgrade has added port 'm_axi_gmem1_RVALID'
+
+-Upgrade has added port 'm_axi_gmem1_WDATA'
+
+-Upgrade has added port 'm_axi_gmem1_WLAST'
+
+-Upgrade has added port 'm_axi_gmem1_WREADY'
+
+-Upgrade has added port 'm_axi_gmem1_WSTRB'
+
+-Upgrade has added port 'm_axi_gmem1_WVALID'
+
+
+4. Addressing Information
+-------------------------
+
+Detected addressing differences while upgrading 'design_1_terrain_classifier_0_1'. These changes may impact your design.
+
+
+-Upgrade has removed address block 's_axi_CTRL_BUS/Reg'
+
+-Upgrade has removed address space 'Data_m_axi_WEIGHT_BUS'
+
+-Upgrade has added address space 'Data_m_axi_gmem0'
+
+-Upgrade has added address space 'Data_m_axi_gmem1'
+
+
+5. Customization warnings
+-------------------------
+
+Parameter 'C_M_AXI_WEIGHT_BUS_ENABLE_ID_PORTS' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to 'false'
+
+Parameter 'C_M_AXI_WEIGHT_BUS_ID_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_WEIGHT_BUS_DATA_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '32'
+
+Parameter 'C_M_AXI_WEIGHT_BUS_ENABLE_USER_PORTS' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to 'false'
+
+Parameter 'C_M_AXI_WEIGHT_BUS_AWUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_WEIGHT_BUS_WUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_WEIGHT_BUS_BUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_WEIGHT_BUS_ARUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_WEIGHT_BUS_RUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_WEIGHT_BUS_USER_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '0x00000000'
+
+Parameter 'C_M_AXI_WEIGHT_BUS_PROT_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '"000"'
+
+Parameter 'C_M_AXI_WEIGHT_BUS_CACHE_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '"0011"'
+
+
+6. Debug Commands
+-----------------
+
+  The following debug information can be passed to Vivado as Tcl commands,
+in order to validate or debug the output of the upgrade flow.
+  You may consult any warnings from within this upgrade, and alter or remove
+the configuration parameter(s) which caused the warning; then execute the Tcl
+commands, and use the IP Customization GUI to verify the IP configuration.
+
+create_ip -vlnv xilinx.com:hls:terrain_classifier:1.0 -user_name design_1_terrain_classifier_0_1
+set_property -dict "\
+  CONFIG.Component_Name {design_1_terrain_classifier_0_1} \
+  CONFIG.II {x} \
+  CONFIG.ap_clk.ASSOCIATED_BUSIF {s_axi_CTRL_BUS:s_axi_control:m_axi_WEIGHT_BUS:input_image_stream_V} \
+  CONFIG.ap_clk.ASSOCIATED_RESET {ap_rst_n} \
+  CONFIG.ap_clk.CLK_DOMAIN {design_1_processing_system7_0_0_FCLK_CLK0} \
+  CONFIG.ap_clk.FREQ_HZ {50000000} \
+  CONFIG.ap_clk.FREQ_TOLERANCE_HZ {0} \
+  CONFIG.ap_clk.INSERT_VIP {0} \
+  CONFIG.ap_clk.PHASE {0.000} \
+  CONFIG.ap_rst_n.INSERT_VIP {0} \
+  CONFIG.ap_rst_n.POLARITY {ACTIVE_LOW} \
+  CONFIG.clk_period {10} \
+  CONFIG.combinational {0} \
+  CONFIG.interrupt.PortWidth {1} \
+  CONFIG.interrupt.SENSITIVITY {LEVEL_HIGH} \
+  CONFIG.latency {655367} \
+  CONFIG.machine {64} \
+  CONFIG.s_axi_control.ADDR_WIDTH {5} \
+  CONFIG.s_axi_control.ARUSER_WIDTH {0} \
+  CONFIG.s_axi_control.AWUSER_WIDTH {0} \
+  CONFIG.s_axi_control.BUSER_WIDTH {0} \
+  CONFIG.s_axi_control.CLK_DOMAIN {design_1_processing_system7_0_0_FCLK_CLK0} \
+  CONFIG.s_axi_control.DATA_WIDTH {32} \
+  CONFIG.s_axi_control.FREQ_HZ {50000000} \
+  CONFIG.s_axi_control.HAS_BRESP {1} \
+  CONFIG.s_axi_control.HAS_BURST {0} \
+  CONFIG.s_axi_control.HAS_CACHE {0} \
+  CONFIG.s_axi_control.HAS_LOCK {0} \
+  CONFIG.s_axi_control.HAS_PROT {0} \
+  CONFIG.s_axi_control.HAS_QOS {0} \
+  CONFIG.s_axi_control.HAS_REGION {0} \
+  CONFIG.s_axi_control.HAS_RRESP {1} \
+  CONFIG.s_axi_control.HAS_WSTRB {1} \
+  CONFIG.s_axi_control.ID_WIDTH {0} \
+  CONFIG.s_axi_control.INSERT_VIP {0} \
+  CONFIG.s_axi_control.MAX_BURST_LENGTH {1} \
+  CONFIG.s_axi_control.NUM_READ_OUTSTANDING {1} \
+  CONFIG.s_axi_control.NUM_READ_THREADS {1} \
+  CONFIG.s_axi_control.NUM_WRITE_OUTSTANDING {1} \
+  CONFIG.s_axi_control.NUM_WRITE_THREADS {1} \
+  CONFIG.s_axi_control.PHASE {0.000} \
+  CONFIG.s_axi_control.PROTOCOL {AXI4LITE} \
+  CONFIG.s_axi_control.READ_WRITE_MODE {READ_WRITE} \
+  CONFIG.s_axi_control.RUSER_BITS_PER_BYTE {0} \
+  CONFIG.s_axi_control.RUSER_WIDTH {0} \
+  CONFIG.s_axi_control.SUPPORTS_NARROW_BURST {0} \
+  CONFIG.s_axi_control.WUSER_BITS_PER_BYTE {0} \
+  CONFIG.s_axi_control.WUSER_WIDTH {0} " [get_ips design_1_terrain_classifier_0_1]
+
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Sat Apr  4 20:46:11 2026
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_0_1'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the upgrade of design_1_terrain_classifier_0_1 (xilinx.com:hls:terrain_classifier:1.0) from (Rev. 2104021201) to (Rev. 2104021200)
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Interface Information
+------------------------
+
+Detected external interface differences while upgrading 'design_1_terrain_classifier_0_1'.
+
+
+-Upgrade has removed interface 'm_axi_IMG_BUS'
+
+-Upgrade has added interface 'input_image_stream_V' (xilinx.com:interface:axis:1.0)
+
+-Upgrade has added interface 'm_axi_WEIGHT_BUS' (xilinx.com:interface:aximm:1.0)
+
+
+3. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'design_1_terrain_classifier_0_1'. These changes may impact your design.
+
+
+-Upgrade has removed port 'm_axi_IMG_BUS_ARADDR'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_ARBURST'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_ARCACHE'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_ARLEN'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_ARLOCK'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_ARPROT'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_ARQOS'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_ARREADY'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_ARREGION'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_ARSIZE'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_ARVALID'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_AWADDR'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_AWBURST'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_AWCACHE'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_AWLEN'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_AWLOCK'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_AWPROT'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_AWQOS'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_AWREADY'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_AWREGION'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_AWSIZE'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_AWVALID'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_BREADY'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_BRESP'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_BVALID'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_RDATA'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_RLAST'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_RREADY'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_RRESP'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_RVALID'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_WDATA'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_WLAST'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_WREADY'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_WSTRB'
+
+-Upgrade has removed port 'm_axi_IMG_BUS_WVALID'
+
+-Upgrade has added port 'input_image_stream_V_TDATA'
+
+-Upgrade has added port 'input_image_stream_V_TREADY'
+
+-Upgrade has added port 'input_image_stream_V_TVALID'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_ARADDR'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_ARBURST'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_ARCACHE'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_ARLEN'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_ARLOCK'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_ARPROT'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_ARQOS'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_ARREADY'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_ARREGION'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_ARSIZE'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_ARVALID'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_AWADDR'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_AWBURST'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_AWCACHE'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_AWLEN'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_AWLOCK'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_AWPROT'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_AWQOS'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_AWREADY'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_AWREGION'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_AWSIZE'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_AWVALID'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_BREADY'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_BRESP'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_BVALID'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_RDATA'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_RLAST'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_RREADY'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_RRESP'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_RVALID'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_WDATA'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_WLAST'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_WREADY'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_WSTRB'
+
+-Upgrade has added port 'm_axi_WEIGHT_BUS_WVALID'
+
+
+4. Addressing Information
+-------------------------
+
+Detected addressing differences while upgrading 'design_1_terrain_classifier_0_1'. These changes may impact your design.
+
+
+-Upgrade has removed address space 'Data_m_axi_IMG_BUS'
+
+-Upgrade has added address space 'Data_m_axi_WEIGHT_BUS'
+
+
+5. Customization warnings
+-------------------------
+
+Parameter 'C_M_AXI_IMG_BUS_ENABLE_ID_PORTS' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to 'false'
+
+Parameter 'C_M_AXI_IMG_BUS_ID_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_IMG_BUS_DATA_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '32'
+
+Parameter 'C_M_AXI_IMG_BUS_ENABLE_USER_PORTS' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to 'false'
+
+Parameter 'C_M_AXI_IMG_BUS_AWUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_IMG_BUS_WUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_IMG_BUS_BUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_IMG_BUS_ARUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_IMG_BUS_RUSER_WIDTH' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '1'
+
+Parameter 'C_M_AXI_IMG_BUS_USER_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '0x00000000'
+
+Parameter 'C_M_AXI_IMG_BUS_PROT_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '"000"'
+
+Parameter 'C_M_AXI_IMG_BUS_CACHE_VALUE' is no longer present on the upgraded IP 'design_1_terrain_classifier_0_1', and cannot be set to '"0011"'
+
+
+6. Debug Commands
+-----------------
+
+  The following debug information can be passed to Vivado as Tcl commands,
+in order to validate or debug the output of the upgrade flow.
+  You may consult any warnings from within this upgrade, and alter or remove
+the configuration parameter(s) which caused the warning; then execute the Tcl
+commands, and use the IP Customization GUI to verify the IP configuration.
+
+create_ip -vlnv xilinx.com:hls:terrain_classifier:1.0 -user_name design_1_terrain_classifier_0_1
+set_property -dict "\
+  CONFIG.Component_Name {design_1_terrain_classifier_0_1} \
+  CONFIG.II {x} \
+  CONFIG.ap_clk.ASSOCIATED_BUSIF {s_axi_CTRL_BUS:s_axi_control:m_axi_IMG_BUS} \
+  CONFIG.ap_clk.ASSOCIATED_RESET {ap_rst_n} \
+  CONFIG.ap_clk.CLK_DOMAIN {design_1_processing_system7_0_0_FCLK_CLK0} \
+  CONFIG.ap_clk.FREQ_HZ {50000000} \
+  CONFIG.ap_clk.FREQ_TOLERANCE_HZ {0} \
+  CONFIG.ap_clk.INSERT_VIP {0} \
+  CONFIG.ap_clk.PHASE {0.000} \
+  CONFIG.ap_rst_n.INSERT_VIP {0} \
+  CONFIG.ap_rst_n.POLARITY {ACTIVE_LOW} \
+  CONFIG.clk_period {10} \
+  CONFIG.combinational {0} \
+  CONFIG.interrupt.PortWidth {1} \
+  CONFIG.interrupt.SENSITIVITY {LEVEL_HIGH} \
+  CONFIG.latency {979438800} \
+  CONFIG.machine {64} \
+  CONFIG.s_axi_CTRL_BUS.ADDR_WIDTH {5} \
+  CONFIG.s_axi_CTRL_BUS.ARUSER_WIDTH {0} \
+  CONFIG.s_axi_CTRL_BUS.AWUSER_WIDTH {0} \
+  CONFIG.s_axi_CTRL_BUS.BUSER_WIDTH {0} \
+  CONFIG.s_axi_CTRL_BUS.CLK_DOMAIN {design_1_processing_system7_0_0_FCLK_CLK0} \
+  CONFIG.s_axi_CTRL_BUS.DATA_WIDTH {32} \
+  CONFIG.s_axi_CTRL_BUS.FREQ_HZ {50000000} \
+  CONFIG.s_axi_CTRL_BUS.HAS_BRESP {1} \
+  CONFIG.s_axi_CTRL_BUS.HAS_BURST {0} \
+  CONFIG.s_axi_CTRL_BUS.HAS_CACHE {0} \
+  CONFIG.s_axi_CTRL_BUS.HAS_LOCK {0} \
+  CONFIG.s_axi_CTRL_BUS.HAS_PROT {0} \
+  CONFIG.s_axi_CTRL_BUS.HAS_QOS {0} \
+  CONFIG.s_axi_CTRL_BUS.HAS_REGION {0} \
+  CONFIG.s_axi_CTRL_BUS.HAS_RRESP {1} \
+  CONFIG.s_axi_CTRL_BUS.HAS_WSTRB {1} \
+  CONFIG.s_axi_CTRL_BUS.ID_WIDTH {0} \
+  CONFIG.s_axi_CTRL_BUS.INSERT_VIP {0} \
+  CONFIG.s_axi_CTRL_BUS.MAX_BURST_LENGTH {1} \
+  CONFIG.s_axi_CTRL_BUS.NUM_READ_OUTSTANDING {1} \
+  CONFIG.s_axi_CTRL_BUS.NUM_READ_THREADS {1} \
+  CONFIG.s_axi_CTRL_BUS.NUM_WRITE_OUTSTANDING {1} \
+  CONFIG.s_axi_CTRL_BUS.NUM_WRITE_THREADS {1} \
+  CONFIG.s_axi_CTRL_BUS.PHASE {0.000} \
+  CONFIG.s_axi_CTRL_BUS.PROTOCOL {AXI4LITE} \
+  CONFIG.s_axi_CTRL_BUS.READ_WRITE_MODE {READ_WRITE} \
+  CONFIG.s_axi_CTRL_BUS.RUSER_BITS_PER_BYTE {0} \
+  CONFIG.s_axi_CTRL_BUS.RUSER_WIDTH {0} \
+  CONFIG.s_axi_CTRL_BUS.SUPPORTS_NARROW_BURST {0} \
+  CONFIG.s_axi_CTRL_BUS.WUSER_BITS_PER_BYTE {0} \
+  CONFIG.s_axi_CTRL_BUS.WUSER_WIDTH {0} \
+  CONFIG.s_axi_control.ADDR_WIDTH {5} \
+  CONFIG.s_axi_control.ARUSER_WIDTH {0} \
+  CONFIG.s_axi_control.AWUSER_WIDTH {0} \
+  CONFIG.s_axi_control.BUSER_WIDTH {0} \
+  CONFIG.s_axi_control.CLK_DOMAIN {design_1_processing_system7_0_0_FCLK_CLK0} \
+  CONFIG.s_axi_control.DATA_WIDTH {32} \
+  CONFIG.s_axi_control.FREQ_HZ {50000000} \
+  CONFIG.s_axi_control.HAS_BRESP {1} \
+  CONFIG.s_axi_control.HAS_BURST {0} \
+  CONFIG.s_axi_control.HAS_CACHE {0} \
+  CONFIG.s_axi_control.HAS_LOCK {0} \
+  CONFIG.s_axi_control.HAS_PROT {0} \
+  CONFIG.s_axi_control.HAS_QOS {0} \
+  CONFIG.s_axi_control.HAS_REGION {0} \
+  CONFIG.s_axi_control.HAS_RRESP {1} \
+  CONFIG.s_axi_control.HAS_WSTRB {1} \
+  CONFIG.s_axi_control.ID_WIDTH {0} \
+  CONFIG.s_axi_control.INSERT_VIP {0} \
+  CONFIG.s_axi_control.MAX_BURST_LENGTH {1} \
+  CONFIG.s_axi_control.NUM_READ_OUTSTANDING {1} \
+  CONFIG.s_axi_control.NUM_READ_THREADS {1} \
+  CONFIG.s_axi_control.NUM_WRITE_OUTSTANDING {1} \
+  CONFIG.s_axi_control.NUM_WRITE_THREADS {1} \
+  CONFIG.s_axi_control.PHASE {0.000} \
+  CONFIG.s_axi_control.PROTOCOL {AXI4LITE} \
+  CONFIG.s_axi_control.READ_WRITE_MODE {READ_WRITE} \
+  CONFIG.s_axi_control.RUSER_BITS_PER_BYTE {0} \
+  CONFIG.s_axi_control.RUSER_WIDTH {0} \
+  CONFIG.s_axi_control.SUPPORTS_NARROW_BURST {0} \
+  CONFIG.s_axi_control.WUSER_BITS_PER_BYTE {0} \
+  CONFIG.s_axi_control.WUSER_WIDTH {0} " [get_ips design_1_terrain_classifier_0_1]
+
+
+
+
+
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Fri Apr  3 12:38:00 2026
+| Host         : Chethana running 64-bit Ubuntu 24.04.4 LTS
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_terrain_classifier_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of design_1_terrain_classifier_0_0 (xilinx.com:hls:terrain_classifier:1.0 (Rev. 2104021201)) to Vivado generation flows.
+
