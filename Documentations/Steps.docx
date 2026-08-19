@@ -1,0 +1,16 @@
+cp './XSA Export/design_2_wrapper.xsa' ~/design_2_wrapper.xsa
+
+petalinux-config --get-hw-description=~
+
+petalinux-build -c device-tree
+
+grep -rnE "dpu|gpio" components/plnx_workspace/device-tree/device-tree/
+
+
+grep -rnE "dpu" /plnx_workspace/device-tree/device-tree/
+
+petalinux-create --type project --template zynq --name suspension_os
+
+cd suspension_os
+
+
