@@ -1,0 +1,84 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_processing_system7_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.ip_user_files/bd/design_1/ip/design_1_xbar_0/sim/design_1_xbar_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_xbar_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_control_s_axi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_control_s_axi
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_control_s_axi_ram
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_conv1_b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv1_b_rom
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv1_b
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_conv1_out_V.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv1_out_V_ram
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv1_out_V
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_conv1_w.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv1_w_rom
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv1_w
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_conv2_b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv2_b_rom
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv2_b
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_conv2_out_V.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv2_out_V_ram
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv2_out_V
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_conv2_w.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv2_w_rom
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv2_w
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_conv3_b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv3_b_rom
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv3_b
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_conv3_out_V.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv3_out_V_ram
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv3_out_V
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_conv3_w.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv3_w_rom
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_conv3_w
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_dense1_w.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_dense1_w_rom
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_dense1_w
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_fpext_32ns_64_2_no_dsp_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_fpext_32ns_64_2_no_dsp_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_gap_out_V.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_gap_out_V_ram
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_gap_out_V
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_mac_muladd_16s_16s_32ns_32_4_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_mac_muladd_16s_16s_32ns_32_4_1_DSP48_0
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_mac_muladd_16s_16s_32ns_32_4_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_pool1_out_V.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_pool1_out_V_ram
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_pool1_out_V
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_pool2_out_V.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_pool2_out_V_ram
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_pool2_out_V
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2_pool3_out_V.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_pool3_out_V_ram
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_pool3_out_V
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/verilog/terrain_classifier_v2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/ipshared/b327/hdl/ip/terrain_classifier_v2_ap_fpext_0_no_dsp_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module terrain_classifier_v2_ap_fpext_0_no_dsp_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.ip_user_files/bd/design_1/ip/design_1_terrain_classifier_v2_0_0/sim/design_1_terrain_classifier_v2_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_terrain_classifier_v2_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.ip_user_files/bd/design_1/sim/design_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1
+INFO: [VRFC 10-311] analyzing module design_1_ps7_0_axi_periph_1
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_UYSKKA
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.ip_user_files/bd/design_1/ip/design_1_jtag_axi_0_0/sim/design_1_jtag_axi_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_jtag_axi_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.ip_user_files/bd/design_1/ip/design_1_ila_0_0/sim/design_1_ila_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_ila_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.ip_user_files/bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.ip_user_files/bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.gen/sources_1/bd/design_1/hdl/design_1_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.ip_user_files/bd/design_1/ip/design_1_rst_ps7_0_50M_1/sim/design_1_rst_ps7_0_50M_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_rst_ps7_0_50M_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.ip_user_files/bd/design_1/ip/design_1_axi_gpio_0_0/sim/design_1_axi_gpio_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_axi_gpio_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.ip_user_files/bd/design_1/ip/design_1_axi_quad_spi_0_0/sim/design_1_axi_quad_spi_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_axi_quad_spi_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/chethana/XILINX/New_IP_Accelerator/terrain_robot_hardware/terrain_robot_hardware.ip_user_files/bd/design_1/ip/design_1_axi_gpio_0_1/sim/design_1_axi_gpio_0_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_axi_gpio_0_1'
